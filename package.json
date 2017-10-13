@@ -1,0 +1,39 @@
+{
+  "name": "leetspeak-2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "build:slides": "cleaver src/slides.md",
+    "build:notes": "cleaver src/notes.md",
+    "watch:slides": "cleaver watch src/slides.md",
+    "watch:notes": "cleaver watch src/notes.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyberlane/leetspeak-2017.git"
+  },
+  "keywords": [
+    "leetspeak",
+    "kidspeak",
+    "2017",
+    "conference",
+    "talk"
+  ],
+  "author": "Justin Nel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyberlane/leetspeak-2017/issues"
+  },
+  "homepage": "https://github.com/Cyberlane/leetspeak-2017#readme",
+  "devDependencies": {
+    "cleaver": "^0.8.5",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "ws": "^3.2.0"
+  }
+}
