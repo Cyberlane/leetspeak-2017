@@ -49,6 +49,10 @@ controls: false
 
 --
 
+# Next: Chris LinkedIn
+
+--
+
 ## Old USB stick
 ## Now works at LinkedIn, writing test code
 # Next: How to help more people create success stories
@@ -58,6 +62,7 @@ controls: false
 
 ## How to educate a group of people
 ## Schools are preset curriculum
+## One person isn't scaling
 # Next: Tech conferences
 ## Well, I personally like going to...
 
@@ -65,10 +70,6 @@ controls: false
 
 ## Had me thinking
 ## Friends who didn't come to Stockholm due to family
-# Next: Suddenly it just clicked
-
---
-
 ## Workshops > Speakers
 # Next: More engaging
 ## Try to make them...
@@ -90,12 +91,16 @@ controls: false
 
 --
 
-## Remember eyes light up for hours
 # Next: Me teaching soldering
 
 --
 
+## Remember eyes light up for hours
 # Next: Simple blinking LEDs
+
+--
+
+# Next: More advanced LEDs
 
 --
 
@@ -158,11 +163,31 @@ controls: false
 
 --
 
+# Next: Speaker prototype
+
+--
+
+# Next: Kidspeak LCD
+
+--
+
+# Next: PCB Layout design
+
+--
+
 # Next: Designing a PCB
 
 --
 
 # Next: 3D printing case prototypes
+
+--
+
+# Next: Large printed case
+
+--
+
+# Next: Bad buttons
 
 --
 
@@ -175,6 +200,10 @@ controls: false
 --
 
 ## Writing simple blocks for doing everything
+# Next: Old Blockly UI again
+
+--
+
 # Next: Kidspeak UI
 
 --
@@ -187,6 +216,10 @@ controls: false
 
 --
 
+# Next: Testing hardware with blocks
+
+--
+
 # Next: Crazy story of Kidspeak Malmo
 
 --
@@ -195,6 +228,10 @@ controls: false
 ## Set alarm and slept
 ## Freshened up
 # Next: What if something breaks
+
+--
+
+# Next: Stressed at Kidspeak Malmo
 
 --
 
@@ -213,9 +250,26 @@ controls: false
 ## Not friend for non tech savvy people
 # Next: Electron logo
 
+
+--
+
+# Next: Fixes
+
+--
+
+# Next: Bugfix meme
+
+--
+
+# Next: Kidspeak releases
+
 --
 
 # Next: Summary of it all
+
+--
+
+# Next: Missing - sharing knowledge
 
 --
 

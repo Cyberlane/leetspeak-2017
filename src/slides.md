@@ -37,12 +37,11 @@ controls: false
 
 --
 
-# Collaborating on small code projects
-<code>
-<?php
-  echo "Hello world"
-?>
-</code>
+![PHP Code](./images/php_code.png)
+
+--
+
+![Chris Experience](./images/chris_experience.png)
 
 --
 
@@ -54,10 +53,6 @@ controls: false
 
 --
 
-# Suddenly it just clicked!
-
---
-
 # More engaging
 
 --
@@ -66,7 +61,7 @@ controls: false
 
 --
 
-# What they actually actually WANT to do
+# What they actually WANT to do
 
 --
 
@@ -78,11 +73,15 @@ controls: false
 
 --
 
-# Simple blinking LEDs
+![LED](./images/I_can_solder.png)
 
 --
 
-# Researching how kids learn code
+![Treekit](./images/treekit.jpg)
+
+--
+
+# How do kids learn code right now?
 
 --
 
@@ -108,7 +107,7 @@ controls: false
 
 --
 
-# Introducing Google Blockly
+# Google Blockly
 
 --
 
@@ -129,11 +128,31 @@ controls: false
 
 --
 
+![Speaker prototype](./images/speaker_proto.jpg)
+
+--
+
+![Kidspeak LCD](./images/kidspeak_lcd.JPG)
+
+--
+
+![PCB Layout Design](./images/pcb_layout_design.jpg)
+
+--
+
 ![Designing PCB](./images/pcb.png)
 
 --
 
 ![Printing case design](./images/3dprint.jpeg)
+
+--
+
+![Large case](./images/large_kidspeak_case.JPG)
+
+--
+
+![Bad buttons](./images/bad_buttons.JPG)
 
 --
 
@@ -145,16 +164,23 @@ controls: false
 
 --
 
+![Blockly](./images/blockly_ui.png)
+
+--
+
 ![Kidspeak app](./images/kidspeak_ui.png)
 
 --
 
 # Copy and paste is slow!
-## I need another tool
 
 --
 
 ![NodeJS](./images/nodejs.png)
+
+--
+
+![Dogfooding](./images/hardware_tester.png)
 
 --
 
@@ -163,6 +189,10 @@ controls: false
 --
 
 # What if something breaks...
+
+--
+
+![Stressed](./images/stressed.jpeg)
 
 --
 
@@ -178,12 +208,23 @@ controls: false
 
 --
 
-# The summary of it all
-* Arduino
-* Google Blockly
-* NodeJS
-* Electron
-* Lots of glue-code
+![Fixes](./images/fixes.png)
+
+--
+
+![Bugfix](./images/bugfix.jpg)
+
+--
+
+![Kidspeak releases](./images/kidspeak_releases.png)
+
+--
+
+![Summary of it all](./images/sum.png)
+
+--
+
+![mission](./images/mission.jpeg)
 
 --
 

@@ -1,7 +1,9 @@
 let socket = null;
+let totalSlides = 0;
 
 const numberSlides = () => {
   const slides = [].slice.call(document.querySelectorAll('.slide'));
+  totalSlides = slides.length;
   slides.forEach((slide, pos) => {
     const number = Number(pos) + 1;
     slide.id = `slide-${number}`;
@@ -20,7 +22,7 @@ const start = () => {
     if (nextSlide) {
       nextSlide.classList.remove('hidden');
     }
-    document.getElementById('slide-pos').innerHTML = `${data} of 41`;
+    document.getElementById('slide-pos').innerHTML = `${data} of ${totalSlides}`;
   };
   socket.onclose = () => {
     setTimeout(() => { start(); }, 500);
